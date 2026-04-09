@@ -8,7 +8,7 @@ tags:
 
 # Data Collaboratives
 
-![Data Collaboratives](images/data_collabs.png)
+![Data Collaboratives](./images/data_collabs.png)
 
 H/T [NYU GovLab Data Collaboratives](http://datacollaboratives.org/)
 
